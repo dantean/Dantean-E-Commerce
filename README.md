@@ -1,4 +1,4 @@
-# E-Commerce Back End
+# Dantean E-Commerce
 
 ## Description
 
