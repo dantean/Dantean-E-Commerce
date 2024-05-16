@@ -1,11 +1,7 @@
 const router = require('express').Router();
 const { Product, product, Tag, ProductTag, Category } = require('../../models');
 
-// The `/api/products` endpoint
-
- 
-
- 
+// The `/api/products` endpoint 
 //http://localhost:3001/api/products/
 router.get('/', async (req, res) => {
   try {
