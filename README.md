@@ -46,7 +46,7 @@ THEN I am able to successfully create, update, and delete data in my database âœ
 
 ## GitHub Repository
 
-- Github Repository: 
+- Github Repository: https://github.com/dantean/Dantean-E-Commerce
 
 ## About The Creator
 
