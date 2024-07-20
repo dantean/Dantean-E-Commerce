@@ -1,8 +1,8 @@
-# Dantean E-Commerce
+# E-Commerce backend
 
 ## What is it?
 
-Dantean E-Commerce is a backend database utilizing MySQL2 and Sequelize to function as a product management system for an e-commerce style website. 
+A backend database utilizing MySQL2 and Sequelize to function as a product management system for an e-commerce style website. 
 
 ## How To Use
 
@@ -14,22 +14,6 @@ Dantean E-Commerce is a backend database utilizing MySQL2 and Sequelize to funct
 * Type `npm run seed` to seed the database
 * Type `npm start` to start the server
 * The POST/PUT/GET/DELETE routes can all be tested in Insomnia using the paths following the template: `http://localhost:3001/api/`
-
-## Acceptance Criteria
-
-```md
-GIVEN a functional Express.js API
-WHEN I add my database name, PostgreSQL username, and PostgreSQL password to an environment variable file 
-THEN I am able to connect to a database using Sequelize ✅
-WHEN I enter schema and seed commands 
-THEN a development database is created and is seeded with test data ✅
-WHEN I enter the command to invoke the application 
-THEN my server is started and the Sequelize models are synced to the PostgreSQL database ✅
-WHEN I open API GET routes in Insomnia for categories, products, or tags 
-THEN the data for each of these routes is dnpm isplayed in a formatted JSON ✅
-WHEN I test API POST, PUT, and DELETE routes in Insomnia 
-THEN I am able to successfully create, update, and delete data in my database ✅
-```
 
 ## Screenshot
 
